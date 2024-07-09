@@ -10,3 +10,5 @@
 8. [Why Does max(set(L), key=L.count) Generate the Mode of a List? - Reddit](https://www.reddit.com/r/learnpython/comments/5wsjra/why_does_maxsetl_keylcount_generate_the_mode_of_a/)
 9. [Statistics for Data Science - Masters in Data Science](https://www.mastersindatascience.org/learning/statistics-data-science/)
 10. [The Crucial Role of Mathematics in Data Science: A Guide to Essential Mathematical Concepts - Skill Enable](https://www.skillenable.com/post/the-crucial-role-of-mathematics-in-data-science-a-guide-to-essential-mathematical-concepts)
+11. [Mandelbrot Set Python](https://realpython.com/mandelbrot-set-python/)
+12. [This equation will change how you see the world (the logistic map)](https://youtu.be/ovJcsL7vyrk?si=7km5k4BYH0yH7IXG)
