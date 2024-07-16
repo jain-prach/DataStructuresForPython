@@ -12,3 +12,10 @@
 10. [The Crucial Role of Mathematics in Data Science: A Guide to Essential Mathematical Concepts - Skill Enable](https://www.skillenable.com/post/the-crucial-role-of-mathematics-in-data-science-a-guide-to-essential-mathematical-concepts)
 11. [Mandelbrot Set Python](https://realpython.com/mandelbrot-set-python/)
 12. [This equation will change how you see the world (the logistic map)](https://youtu.be/ovJcsL7vyrk?si=7km5k4BYH0yH7IXG)
+13. [Java Char Vs String](https://www.baeldung.com/java-char-vs-string)
+14. [Getting Started with Sentiment Analysis using Python](https://huggingface.co/blog/sentiment-analysis-python)
+15. [Scraping Job Requirements from LinkedIn (who knew someone has already done what I was thinking about?))](https://www.linkedin.com/pulse/scraping-job-requirements-from-linkedin-arjun-singh/)
+16. [scrollIntoView vs moveToElement](https://stackoverflow.com/questions/34562095/scrollintoview-vs-movetoelement)
+17. [Removing stop words with NLTK in Python](https://www.geeksforgeeks.org/removing-stop-words-nltk-python/)
+18. [What is the difference between the different scroll options?](https://stackoverflow.com/questions/54681172/what-is-the-difference-between-the-different-scroll-options/54689339#54689339)
+19. 
