@@ -18,4 +18,9 @@
 16. [scrollIntoView vs moveToElement](https://stackoverflow.com/questions/34562095/scrollintoview-vs-movetoelement)
 17. [Removing stop words with NLTK in Python](https://www.geeksforgeeks.org/removing-stop-words-nltk-python/)
 18. [What is the difference between the different scroll options?](https://stackoverflow.com/questions/54681172/what-is-the-difference-between-the-different-scroll-options/54689339#54689339)
-19. 
+19. [Recommender systems: When you have no idea](https://www.linkedin.com/pulse/recommender-systems-when-you-have-idea-malintha-adikari/)
+20. [Knowledge-based recommender system](https://en.wikipedia.org/wiki/Knowledge-based_recommender_system)
+21. [Context-Aware Recommender](https://www.kaggle.com/code/amiralisa/context-aware-recommender)
+22. [What are Boolean operators? How can I use them to improve my searches?](https://onesearch.library.utoronto.ca/faq/what-are-boolean-operators-how-can-i-use-them-improve-my-searches)
+23. [Boolean](https://www.techtarget.com/whatis/definition/Boolean)
+24. [Applications Of Boolean Functions](https://fastercapital.com/topics/applications-of-boolean-functions.html)
